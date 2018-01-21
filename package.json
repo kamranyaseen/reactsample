@@ -1,0 +1,22 @@
+{
+  "name": "reactsample",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "server.js",
+  "scripts": {
+    "test": "react"
+  },
+  "keywords": [
+    "react",
+    "crud"
+  ],
+  "author": "kamran yaseen",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.10.8",
+    "morgan": "^1.9.0",
+    "react": "^16.2.0"
+  }
+}
